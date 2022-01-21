@@ -53,13 +53,13 @@
   {
     "descricao": "Copa do Nordeste 2022",
     "local": {
-      "nome": "Arena Castelão",
-      "imagem": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.2963199:1612118314/castel-o.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=5632e03"
+      "nome": "Arena Fonte nova",
+      "imagem": "https://s2.glbimg.com/dH3jcJ9tCEViu-MacZQ8pP2lAFc=/0x0:5760x3840/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/j/E/HCrfKxR56gzA8tOchQtQ/arena-fonte-nova-geral-do-gramado-foto-ulisses-dumas-ag.-bapress.jpg"
     },
     "mandante": {
-      "nome": "Ceará",
+      "nome": "Bahia",
       "forca": 4,
-      "imagem": "https://i.pinimg.com/736x/d0/b4/2e/d0b42eaa5764c02493a5d77850f6f370.jpg"
+      "imagem": "https://www.futbox.com/img/v1/d59/e1f/c66/38f/313d0826f7296079047b.png"
     },
     "visitante": {
       "nome": "Fortaleza",
