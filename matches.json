@@ -65,21 +65,7 @@
       "nome": "Fortaleza",
       "forca": 5,
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_758408-MLB42184672230_062020-O.jpg"
-    },
-    {
-    "descricao": "Copa do Nordeste 2022",
-    "local": {
-      "nome": "Arena Castelão",
-      "imagem": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.2963199:1612118314/castel-o.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=5632e03"
-    },
-    "mandante": {
-      "nome": "Ceará",
-      "forca": 4,
-      "imagem": "https://i.pinimg.com/736x/d0/b4/2e/d0b42eaa5764c02493a5d77850f6f370.jpg"
-    },
-    "visitante": {
-      "nome": "Fortaleza",
-      "forca": 5,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758408-MLB42184672230_062020-O.jpg"
     }
+  }
+    
 ]
