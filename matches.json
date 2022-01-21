@@ -1,53 +1,53 @@
 [
   {
-    "descricao": "Eliminatórias Copa 2022",
+    "descricao": "Copa do Nordeste 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+      "nome": "Arena Pernambuco",
+      "imagem": "https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2018/12/arena-2.jpg"
     },
     "mandante": {
-      "nome": "Brasil",
+      "nome": "Sport",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://banner2.cleanpng.com/20180528/vos/kisspng-sport-club-do-recife-sport-club-corinthians-paulis-5b0c9ea612d959.2919738715275537020772.jpg"
     },
     "visitante": {
-      "nome": "Argentina",
+      "nome": "Naútico",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "http://globoesporte.globo.com/Esportes/foto/0,,15158631-EX,00.jpg"
     }
   },
   {
-    "descricao": "Eliminatórias Copa 2022",
+    "descricao": "Copa do Nordeste 2022",
     "local": {
-      "nome": "Olympic Stadium Hernando Siles",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
+      "nome": "Arena Castelão",
+      "imagem": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.2963199:1612118314/castel-o.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=5632e03"
     },
     "mandante": {
-      "nome": "Bolívia",
-      "forca": 2,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+      "nome": "Ceará",
+      "forca": 4,
+      "imagem": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2021/12/untitled-design5-590x393.png"
     },
     "visitante": {
-      "nome": "Brasil",
+      "nome": "Fortaleza",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758408-MLB42184672230_062020-O.jpg"
     }
   },
   {
-    "descricao": "Eliminatórias Copa 2022",
+    "descricao": "Copa do Nordeste 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
+      "nome": "Rei Pelé",
+      "imagem": "https://www.al.al.leg.br/comunicacao/noticias/projeto-que-altera-o-nome-do-estadio-rei-pele-e-discutido-em-plenario/image"
     },
     "mandante": {
-      "nome": "Brasil",
-      "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "nome": "CRB",
+      "forca": 4,
+      "imagem": "https://pbs.twimg.com/profile_images/1455552575143546883/hpPhwRnd_400x400.jpg"
     },
     "visitante": {
-      "nome": "Colombia",
+      "nome": "CSA",
       "forca": 3,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEpnwyngHuqW8nV9gP_1aiZWlfOlxlaTcxlfUhjNt6o0k0O1TCT0MxagaeWKnpED8iIts&usqp=CAU"
     }
   }
 ]
